@@ -1,2 +1,2 @@
-# Digital-Design-Final-Project
-Final Project for Digital Design Lab
+# Digital-Design-Final-Project-2015
+Final Project for Digital Design Lab 2015
